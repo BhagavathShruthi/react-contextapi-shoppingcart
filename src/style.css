@@ -1,0 +1,53 @@
+h1,
+p {
+  font-family: Lato;
+}
+.banner {
+  background-color: yellow;
+  text-align: center;
+  padding: 10px 0 10px 0;
+}
+.book-item {
+  border: 2px solid black;
+  margin-bottom: 5px;
+  font-size: 12px;
+  width: 60%;
+  padding: 2px;
+}
+.book-name {
+  font-weight: 500;
+}
+.book-author {
+  font-size: 10px;
+}
+.book-price {
+}
+.banner-link {
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+}
+.banner-link:active,
+.banner-link:hover {
+  color: black;
+}
+.banner-link-active {
+  font-weight: 700;
+}
+.emptyContentMessage {
+  justify-self: center;
+  align-self: center;
+  font-weight: 250;
+}
+.book-action-button {
+  font-size: 12px !important;
+}
+.container {
+  padding: 10px;
+}
+.page-label {
+  padding: 10px;
+}
+.note {
+  padding: 5px;
+}
